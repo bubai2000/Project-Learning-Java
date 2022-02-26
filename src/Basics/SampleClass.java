@@ -22,6 +22,7 @@ public class SampleClass {
         SampleClass sample = new SampleClass();
         sample.changex(50);
         System.out.println("New value of sample.x=> "+sample.x);
+        fact1.close();
     }
     // Static methods(They belong to the class but not to an instance of the class, so can run without an instance)
     private static int fact(int x)

@@ -26,6 +26,7 @@ public class ClassObjectMethod
         System.out.println("Now enter a number to change obj1.x internally=>");
         obj1.changex(input.nextInt());
         System.out.println("New value of obj1.x= "+obj1.x);
+        input.close();
     }
 }
 

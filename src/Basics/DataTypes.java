@@ -1,6 +1,5 @@
 package Basics;
 
-import java.util.Scanner;
 
 // naming schemes
 /* Class: Should start with the uppercase letter.

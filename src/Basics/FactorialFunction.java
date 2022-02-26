@@ -10,6 +10,7 @@ public class FactorialFunction {
         int x= fact1.nextInt();
         int f=fact(x);
         System.out.println("Factorial of "+x+" is ="+f);
+        fact1.close();
     }
     private static int fact(int x)
     {
