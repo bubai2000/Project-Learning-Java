@@ -29,4 +29,3 @@ public class ClassObjectMethod
         input.close();
     }
 }
-
