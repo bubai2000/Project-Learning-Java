@@ -12,7 +12,7 @@ public class SwappingValues {
         z = (x + y);
         x = (z - x);
         y = (z - y);
-        System.out.println("Hi! Swapped values x = " + x + " and y = " + y);
+        System.out.println("Swapped values x = " + x + " and y = " + y);
         obj1.close();
     }
 }
